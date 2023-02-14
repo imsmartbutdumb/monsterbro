@@ -1,0 +1,36 @@
+Uri: https://resource.doodoo.love/6G22Qj/cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317/20a6c8a2-5f36-492c-8e31-9da83943c013/?gid=monster-tracks
+File Name: C:\Downloaded Web Sites\resource.doodoo.love\6G22Qj\cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317\20a6c8a2-5f36-492c-8e31-9da83943c013\index.htm
+Content Type: text/html
+
+Uri: https://resource.doodoo.love/6G22Qj/cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317/20a6c8a2-5f36-492c-8e31-9da83943c013/webapp/baloo2.woff
+File Name: C:\Downloaded Web Sites\resource.doodoo.love\6G22Qj\cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317\20a6c8a2-5f36-492c-8e31-9da83943c013\webapp\baloo2.woff
+Content Type: font/woff
+
+Uri: https://resource.doodoo.love/6G22Qj/cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317/20a6c8a2-5f36-492c-8e31-9da83943c013/webapp/cover.jpg
+File Name: C:\Downloaded Web Sites\resource.doodoo.love\6G22Qj\cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317\20a6c8a2-5f36-492c-8e31-9da83943c013\webapp\cover.jpg
+Content Type: image/jpeg
+
+Uri: https://resource.doodoo.love/6G22Qj/cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317/20a6c8a2-5f36-492c-8e31-9da83943c013/webapp/fancade.css
+File Name: C:\Downloaded Web Sites\resource.doodoo.love\6G22Qj\cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317\20a6c8a2-5f36-492c-8e31-9da83943c013\webapp\fancade.css
+Content Type: text/css
+
+Uri: https://resource.doodoo.love/6G22Qj/cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317/20a6c8a2-5f36-492c-8e31-9da83943c013/webapp/favicon.ico
+File Name: C:\Downloaded Web Sites\resource.doodoo.love\6G22Qj\cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317\20a6c8a2-5f36-492c-8e31-9da83943c013\webapp\favicon.ico
+Content Type: text/plain
+
+Uri: https://resource.doodoo.love/6G22Qj/cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317/20a6c8a2-5f36-492c-8e31-9da83943c013/webapp/index.js
+File Name: C:\Downloaded Web Sites\resource.doodoo.love\6G22Qj\cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317\20a6c8a2-5f36-492c-8e31-9da83943c013\webapp\index.js
+Content Type: text/javascript
+
+Uri: https://resource.doodoo.love/6G22Qj/cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317/20a6c8a2-5f36-492c-8e31-9da83943c013/webapp/source_min.js
+File Name: C:\Downloaded Web Sites\resource.doodoo.love\6G22Qj\cd4e3ec1-58d1-4c37-8b4a-ba3defb8f317\20a6c8a2-5f36-492c-8e31-9da83943c013\webapp\source_min.js
+Content Type: text/javascript
+
+Uri: https://resource.doodoo.love/nZTtN8/doodoo-sdk-2.1.0.js
+File Name: C:\Downloaded Web Sites\resource.doodoo.love\nZTtN8\doodoo-sdk-2.1.0.js
+Content Type: text/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993
+File Name: C:\Downloaded Web Sites\resource.doodoo.love\beacon.min.js\vaafb692b2aea4879b33c060e79fe94621666317369993
+Content Type: text/javascript
+
